@@ -78,6 +78,9 @@ public class lab1 {
             System.out.println("No problem, that's it of my program. See ya");
         }
 
+        else{
+            System.out.println("Are u stupid? ONLY Y OR N!!!!");
+        }
 
     }
 }
